@@ -14,4 +14,4 @@ If you do not have the shiny library installed, you may need to first run the fo
 install.packages("shiny")
 ```
 
-Please feel free to contact the author with any questions:[mailto](mailto: mbfrisby@umich.edu)
+Please feel free to contact the author with any questions: mbfrisby@umich.edu
