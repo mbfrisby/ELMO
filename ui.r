@@ -6,7 +6,7 @@ shinyUI(fluidPage(
               accept=c('text/csv', 'text/comma-separated-values,text/plain', '.csv', '.out')),
               p("We work hard to build and maintain this calculator, and to make it freely available to anyone wishing to use it. 
               You can support us by citing our work."),
-              p(strong("Citation:"), "Frisby, M. B., Diemer, M., A. (",em("in preparation"),"). Everything in moderation: a proposed 
+              p(strong("Citation:"), "Frisby, M. B., Diemer, M., A. (",em("under review"),"). Everything in moderation: a proposed 
               improvement to variance calculation for visualizing latent endogenous moderation."),
               HTML("<p>For access to more information including R code to run this program locally, 
               please see <a href='https://github.com/mbfrisby/EndogenousLVModeration'>
